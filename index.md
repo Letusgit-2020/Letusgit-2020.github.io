@@ -1,1 +1,13 @@
-Hier seht ihr meinen Lieblingscharakter!
+Hier ist eine Webseite zu meinem Lieblingscharakter!
+# Ich will über Pipi Langstrumpf schreiben
+## Das Buch ist ein Kinderbuch
+**Es macht auch Erwachsenen spass**
+
+*Es spielt vermutlich in Schweden*
+
+Es wohnen im der Villa Kunterbunt:
+
+1. Pipi
+2. Der Affe Herr Nielssson
+3. Das Pferd Onkel
+
